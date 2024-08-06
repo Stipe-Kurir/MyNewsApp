@@ -1,0 +1,27 @@
+.LatestNewsItemContent {
+  width: 100%;
+  gap: 5px;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+.Time {
+  color: #1e71bb;
+  font-size: 10px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.LatestNewsItemTitle {
+  margin-left: 20px;
+  font-size: 16px;
+  font-weight: bold;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.2em;
+  max-height: 2.4em;
+  white-space: normal;
+}

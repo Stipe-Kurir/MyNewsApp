@@ -1,0 +1,57 @@
+.HeaderContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f5f8;
+
+  @media (max-width: 950px) {
+    position: sticky;
+    top: 0;
+  }
+}
+
+.HeaderTop {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+
+  @media (max-width: 950px) {
+    justify-content: space-between;
+  }
+}
+
+.HeaderContent {
+  width: 1095px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 40px 0;
+  align-items: center;
+  gap: 20px;
+  margin: 0 20px;
+
+  @media (max-width: 950px) {
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
+.hamburgerMenu {
+  display: none;
+
+  @media (max-width: 950px) {
+    display: flex;
+    margin-right: 10px;
+  }
+}
+
+.logo {
+  cursor: pointer;
+
+  @media (max-width: 950px) {
+    margin-left: 10px;
+  }
+}

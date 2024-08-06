@@ -1,0 +1,863 @@
+{
+  "sports": [
+    {
+      "id": "303b25ac-a45d-4cd1-867e-d140863f1f14",
+      "title": "Olympic boxer Imane Khelif calls for end to bullying after backlash over gender misconceptions - The Associated Press",
+      "content": "PARIS (AP) Olympic boxer Imane Khelif said the wave of hateful scrutiny she has faced over misconceptions about her gender harms human dignity, and she called for an end to bullying athletes after be… [+7064 chars]",
+      "author": "KADDOUR HABBARI, GREG BEACHAM",
+      "category": "sports",
+      "image": "https://dims.apnews.com/dims4/default/1d7c8f7/2147483647/strip/true/crop/8144x4581+0+424/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2F6e%2F09634f5e64e724ec86254336edd8%2F011e7b247a72469494d8fe62c529ae68",
+      "favorites": false,
+      "publishedAt": "2024-08-05T06:00:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "77b61a07-a722-4193-92d2-00e152e2088c",
+      "title": "Jimmer Fredette reveals ‘devastating’ injury after USA 3×3 team exits Olympics in disappointment - New York Post ",
+      "content": "Jimmer Fredette has a long road to recovery ahead of him. \r\nThe former BYU star revealed that he tore two different ligaments completely in his adductor during the early stages of pool play for Team … [+2002 chars]",
+      "author": "Christian Arnold",
+      "category": "sports",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2024/08/newspress-collage-m7r3cs1nx-1722818732413.jpg?quality=75&strip=all&1722804388&w=1024",
+      "favorites": false,
+      "publishedAt": "2024-08-05T01:08:00Z",
+      "breakingNews": true
+    },
+    {
+      "id": "0e6c01ba-abad-4d89-b20a-9f6ef4d64c86",
+      "title": "With Olympic gold, Scottie Scheffler says emotional display isn’t as rare as we thought - The Dallas Morning News",
+      "content": "SAINT-QUENTIN-EN-YVELNES, France Scottie Scheffler has won six tournaments this year, including his second Masters; extended his streak as golfs most dominant player since Tiger Woods heyday; and poc… [+4978 chars]",
+      "author": "Kevin Sherrington",
+      "category": "sports",
+      "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/X4UDFWJBPJEYTEJ2F4UZ3LWRTQ.jpg?auth=0a5ef508517dbb8a4571b291e8cc2b57b9d9652c41e06bf7745756a52cf20e11&height=467&width=830&smart=true&quality=40",
+      "favorites": false,
+      "publishedAt": "2024-08-04T23:26:13Z",
+      "breakingNews": false
+    },
+    {
+      "id": "550987f8-b180-41b1-bd02-6512edc78ca5",
+      "title": "Aug. 5 Olympics schedule: Gymnastics, soccer, basketball - ESPN",
+      "content": "LikeOpen Extended Reactions\r\n137\r\nThe 2024 Olympics are speeding along. August 5th will bring exciting developments in gymnastics, soccer, and basketball, among other events. Will Simone Biles add to… [+6084 chars]",
+      "author": "ESPN",
+      "category": "sports",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0803%2Fr1367822_1296x729_16%2D9.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T23:13:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "df0dc9fb-b2b6-4fd8-8608-e27d1142616e",
+      "title": "Michigan head coach Sherrone Moore could face suspension as sign-stealing scandal looms, NOA says: reports - Fox News",
+      "content": "We use cookies and data to\r\n<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to un… [+1139 chars]",
+      "author": "Unknown author",
+      "category": "sports",
+      "image": null,
+      "favorites": false,
+      "publishedAt": "2024-08-04T22:11:00Z",
+      "breakingNews": true
+    },
+    {
+      "id": "6354c7fa-1970-413d-bf3e-3ab9e42674e8",
+      "title": "Belgium withdraws from Olympic triathlon event after athlete who swam in Seine River gets sick - Fox News",
+      "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+2340 chars]",
+      "author": "Ryan Gaydos",
+      "category": "sports",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/08/Claire-Michel.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T21:28:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "189e2657-cb00-46cd-a489-3ad463a56289",
+      "title": "Andreeva and Shnaider, part of AIN, are the first Russians to get a medal at the 2024 Olympics - The Associated Press",
+      "content": "PARIS (AP) The first medal for any Russian athlete at the 2024 Olympics technically not representing their country, but competing as neutrals, because of the war on Ukraine came in tennis on Sunday, … [+3492 chars]",
+      "author": "HOWARD FENDRICH",
+      "category": "sports",
+      "image": "https://dims.apnews.com/dims4/default/341ffde/2147483647/strip/true/crop/5843x3287+0+304/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8d%2F52%2F9ef00a251ddb5a2aef43ec81e2fc%2Fa990f8f3c459458c82ce069cc24f9e1a",
+      "favorites": false,
+      "publishedAt": "2024-08-04T17:51:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "5b4dc61b-a64c-42b7-941d-47cc45c4a65c",
+      "title": "Simone Biles Gets Another Olympic Gold With Her Historic Vault - Defector",
+      "content": "PARIS Once the name \"Simone Biles\" rings out in the arena, the phones are everywhere. People don't just film her during official competition. Fans in the stands film her warming up. They film her ste… [+2806 chars]",
+      "author": "Unknown author",
+      "category": "sports",
+      "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2024/08/GettyImages-2165195994.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T17:03:00Z",
+      "breakingNews": false
+    }
+  ],
+  "science": [
+    {
+      "id": "f1ec26c5-0ccd-4fc2-8963-a568d5b6b9ce",
+      "title": "NASA Rover Captures Rock Showing Possible Signs of Microbial Life - VOA Learning English",
+      "content": "A Mars explorer operated by the American space agency NASA has captured a rock that scientists say shows possible signs of ancient microbial life.\r\nNASA said in a recent statement that the Perseveran… [+3781 chars]",
+      "author": "VOA Learning English",
+      "category": "science",
+      "image": "https://gdb.voanews.com/01000000-0aff-0242-f15b-08dcb2614ede_cx2_cy3_cw93_w1200_r1.png",
+      "favorites": false,
+      "publishedAt": "2024-08-04T22:05:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "8a1b882d-9f99-4326-b5d9-cc449adddbb5",
+      "title": "The Perseid meteor shower is about to peak. Here's when to see the most 'shooting stars'. - Livescience.com",
+      "content": "One of the most prolific annual meteor showers of the year, the Perseids, will peak next weekend, bringing up to 75 \"shooting stars\" per hour to the sky Sunday night and early Monday (Aug. 11 to Aug.… [+2594 chars]",
+      "author": "Jamie Carter",
+      "category": "science",
+      "image": "https://cdn.mos.cms.futurecdn.net/rGgUKjdvbuSV35dAiw2Zyn-1200-80.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T22:00:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "d2842507-324b-4e04-82a3-b7461c0e9bea",
+      "title": "Cygnus spacecraft suffers glitches after launch - SpaceNews",
+      "content": "LOGAN, Utah A Falcon 9 launched a Northrop Grumman Cygnus cargo spacecraft to the International Space Station Aug. 4, but the spacecraft suffered problems that have delayed maneuvers needed to reach … [+4439 chars]",
+      "author": "Jeff Foust",
+      "category": "science",
+      "image": "https://spacenews.com/wp-content/uploads/2024/08/ng21-deploy.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T21:23:12Z",
+      "breakingNews": false
+    },
+    {
+      "id": "3c76304a-f878-4483-8c36-ab09299b0632",
+      "title": "A Herpetologist Spotlights The 4 ‘Coolest’ Extinct Reptiles (Hint: None Are Dinosaurs) - Forbes",
+      "content": "Extinct species are every bit as interesting as those that are found in the wild todayperhaps ... [+] moreso. Here are four reptiles that would make your jaw drop if they had survived into the presen… [+5229 chars]",
+      "author": "Scott Travers",
+      "category": "science",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/66aa4996313c897e8e12664d/0x0.jpg?format=jpg&crop=1881,881,x94,y0,safe&height=900&width=1600&fit=bounds",
+      "favorites": false,
+      "publishedAt": "2024-08-04T20:11:32Z",
+      "breakingNews": false
+    },
+    {
+      "id": "d1ec5272-85b2-45d2-8028-383d8c92cab8",
+      "title": "Inside the scramble to save NASA’s half-billion-dollar, water-hunting moon rover - CNN",
+      "content": "We use cookies and data to\r\n<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to un… [+1139 chars]",
+      "author": "Unknown author",
+      "category": "science",
+      "image": null,
+      "favorites": false,
+      "publishedAt": "2024-08-04T15:30:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "607b47be-fdb8-46ec-9095-cc497fd2f876",
+      "title": "Scientists baffled by discovery of '2000-year-old computer' - indy100",
+      "content": "Scientists have been left baffled by the discovery of the wreck of a 2,000-year-old computer that is amazingly complex.\r\nThe Antikythera mechanism an astronomical calendar has been dubbed the first c… [+1672 chars]",
+      "author": "Ellie Abraham",
+      "category": "science",
+      "image": "https://www.indy100.com/media-library/discovery-of-2000-year-old-computer-leaves-scientists-baffled.jpg?id=33752172&width=1200&height=600&coordinates=0%2C227%2C0%2C429",
+      "favorites": false,
+      "publishedAt": "2024-08-04T15:28:07Z",
+      "breakingNews": false
+    },
+    {
+      "id": "154e5db8-e723-40e3-9a1b-0d160b2852e6",
+      "title": "Meet the surprisingly complex ancestor of all life on Earth - The Washington Post",
+      "content": "It may be hard to imagine complicated life forms on early Earth. Oxygen was low and asteroids may have beenpelting the baby planets surface. Despite those harsh conditions, a microbe may have persist… [+6181 chars]",
+      "author": "Kasha Patel",
+      "category": "science",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UGGIVFVMQDSSAJEAN6JCL7URWU.JPG&w=1440",
+      "favorites": false,
+      "publishedAt": "2024-08-04T12:40:18Z",
+      "breakingNews": false
+    },
+    {
+      "id": "a27bcaf2-f1df-48f6-8061-5d3dbc208fd1",
+      "title": "Breakthrough Brings Scientists Closer to Creating Heaviest Element Ever - ScienceAlert",
+      "content": "In a feat of modern-day alchemy, scientists have used a beam of vaporized titanium to create one of the heaviest elements on Earth and they think this new method could pave the way to even heftier ho… [+3876 chars]",
+      "author": "Jess Cockerill",
+      "category": "science",
+      "image": "https://www.sciencealert.com/images/2024/07/Element116Cover.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T10:03:19Z",
+      "breakingNews": false
+    },
+    {
+      "id": "f273ef4f-325e-4c22-a235-7bf177e82b9c",
+      "title": "See the Perseids and Southern Delta Aquariids in a Stunning Double Meteor Shower - WIRED",
+      "content": "Get ready to see a double meteor shower featuring one of the biggest and brightest meteor showers of the year, the Perseids! In addition to the Perseids, the Southern Delta Aquariids continue to be a… [+3039 chars]",
+      "author": "Gretchen Rundorff",
+      "category": "science",
+      "image": "https://media.wired.com/photos/66aa08099538053fca9d3cca/191:100/w_1280,c_limit/GettyImages-1601921261.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T10:00:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "2953d862-e26d-4568-a01f-e6c59fc222a6",
+      "title": "Hot Burning Rocket Engines Could Turn the Moon's Surface Into Instant Landing Pads - autoevolution",
+      "content": "Every single inch of the lunar surface is covered by a thick layer of charcoal-gray dust we call regolith. It is the result of asteroids, meteoroids, and comets hammering the surface of the Moon for … [+4598 chars]",
+      "author": "Daniel Patrascu",
+      "category": "science",
+      "image": "https://s1.cdn.autoevolution.com/images/news/hot-burning-rocket-engines-could-turn-the-moon-s-surface-into-instant-landing-pads-237756_1.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T02:04:01Z",
+      "breakingNews": false
+    },
+    {
+      "id": "d0ee9452-00fd-4a14-aee7-d0fbd4e11a95",
+      "title": "Photographer recreates NASA's epic Artemis 1 launch with Lego (video) - Space.com",
+      "content": "To glance at the images above, you'd be hard pushed to not think you were looking at a real rocket launch. But they're actually works of art, created by Benedek Lampert using Lego's NASA Artemis Spac… [+8837 chars]",
+      "author": "Kimberley Snaith",
+      "category": "science",
+      "image": "https://cdn.mos.cms.futurecdn.net/bGWuVJbgZhLeAz2a5RRnY4-1200-80.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-03T15:00:21Z",
+      "breakingNews": false
+    },
+    {
+      "id": "6040314d-c639-464a-a1ae-0cb24b339239",
+      "title": "This Week In Space podcast: Episode 122 — No City on Mars? - Space.com",
+      "content": "On Episode 122 of This Week In Space, Rod Pyle and Tariq Malik talk with Dale Skran, COO and SVP of the National Space Society, and video producer Isaac Arthur about the realistic prospects for space… [+1936 chars]",
+      "author": "Space.com Staff",
+      "category": "science",
+      "image": "https://cdn.mos.cms.futurecdn.net/hGWN2dvGS9xDfcamTWK8XQ-1200-80.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-03T13:19:29Z",
+      "breakingNews": false
+    },
+    {
+      "id": "735ca866-952e-462a-a2ff-28cce37ccb85",
+      "title": "Scientists find more proof of life on Venus - BGR",
+      "content": "Four years ago, back in 2020, a group of scientists at Cardiff University in the UK discovered phosphine in the clouds on Venus. This significant discovery, the researchers said, showed that a gas cl… [+1855 chars]",
+      "author": "Joshua Hawkins, Joshua Hawkins",
+      "category": "science",
+      "image": "https://bgr.com/wp-content/uploads/2020/09/bgrpic-copy-15.jpg?quality=82&strip=all",
+      "favorites": false,
+      "publishedAt": "2024-08-03T13:01:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "cdce7847-ca9f-4e34-a0d5-5e26973d5115",
+      "title": "Earth from space: Astronauts share photography tips for snapping amazing photos from the ISS - Space.com",
+      "content": "The view from Earth looking up at the stars is an incredible one, but a select few have the chance to look down at their home planet from space and capture the incredible scenery on camera. \r\nA recen… [+9950 chars]",
+      "author": "Keith Cooper",
+      "category": "science",
+      "image": "https://cdn.mos.cms.futurecdn.net/qcdoypiEdyKRiHKc6WdT68-1200-80.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-03T12:00:36Z",
+      "breakingNews": false
+    },
+    {
+      "id": "cb6678c4-0134-4c2b-a007-f515e04e7ef8",
+      "title": "Cosmic Oddity: Rare Second-Gen Star Found Beyond the Milky Way - SciTechDaily",
+      "content": "ByUniversity of ChicagoJuly 29, 2024\r\nThe first generation of stars fundamentally changed the universe by fusing simple elements like hydrogen and helium into more complex ones within their cores, sc… [+4513 chars]",
+      "author": "Unknown author",
+      "category": "science",
+      "image": "https://scitechdaily.com/images/Milky-Way-Spiral-Galaxy-Illustration-scaled.jpg",
+      "favorites": false,
+      "publishedAt": "2024-07-30T00:48:47Z",
+      "breakingNews": false
+    }
+  ],
+  "business": [
+    {
+      "id": "0decca55-b051-4c69-9c45-06190cef2d5d",
+      "title": "Japan's Nikkei 225 index plunges 7% as world markets tremble over risks to the US economy - The Associated Press",
+      "content": "BANGKOK (AP) Japans benchmark Nikkei 225 stock index plunged as much as 8.1% early Monday, extending sell-offs that shook world markets last week as worries flared over the state of the U.S. economy.… [+4487 chars]",
+      "author": "ELAINE KURTENBACH",
+      "category": "business",
+      "image": "https://dims.apnews.com/dims4/default/b71e2a4/2147483647/strip/true/crop/4502x2532+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6c%2Fdc%2F38fc8aa092d7adfbc2d8e681e021%2F148a8bc547f9429fb7cb9d9b90bcc34c",
+      "favorites": false,
+      "publishedAt": "2024-08-05T04:18:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "39d06e02-05e8-47f1-8ed2-fa25f6de7e2b",
+      "title": "CrowdStrike Says Delta CEO Ignored Offer for Help During Outage - Bloomberg",
+      "content": "We use cookies and data to\r\n<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to un… [+1139 chars]",
+      "author": "Unknown author",
+      "category": "business",
+      "image": null,
+      "favorites": false,
+      "publishedAt": "2024-08-05T02:22:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "1f368e65-27d7-49c9-b16a-1e78395f8252",
+      "title": "Adani Unveils $212 Billion Succession Plan as Scrutiny Persists - Bloomberg",
+      "content": "Sagar Adani, Jeet Adani, Pranav Adani and Karan Adani, at Adani Group headquarters in Ahmedabad in May. Source: Bloomberg\r\nIn early 2018, Gautam Adani Asias second richest man, with a fortune of more… [+20215 chars]",
+      "author": "Anto Antony",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilQL3lxpdXb0/v0/-1x-1.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-05T02:19:50Z",
+      "breakingNews": false
+    },
+    {
+      "id": "e440ab1f-e2bc-40c4-9e5d-4f606ddaccdc",
+      "title": "250+ flight cancellations, 430+ delays at CLT Airport Sunday: What to know - WBTV",
+      "content": "CHARLOTTE, N.C. (WBTV) - Hundreds of flights were canceled or delayed at Charlotte Douglas International Airport on Sunday, according to FlightAware.\r\nAs of 11 p.m., the flight tracking site reported… [+616 chars]",
+      "author": "Connor Lomis",
+      "category": "business",
+      "image": "https://gray-wbtv-prod.cdn.arcpublishing.com/resizer/v2/KDD54SMNKBAGLNMCMDG6IHX444.jpg?auth=40603481db83e551bb9e95ebe1f742086275829fdc0944d16a1bb3fba21429de&width=1200&height=600&smart=true",
+      "favorites": false,
+      "publishedAt": "2024-08-04T21:30:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "115090e9-11d4-4189-92da-a8f236530184",
+      "title": "The Decline Of Intel – A Potential Repeat Of Nokia, Kodak, And Blackberry - Barchart",
+      "content": "Being a leading company does not mean you will remain there. Once giants in their domains, (NOK) , (KODK), and (BB) today are shadows of their former selves. Nokia dominated cell phones but missed th… [+6608 chars]",
+      "author": "Jim Osman",
+      "category": "business",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Semiconductor%20Chip.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T21:25:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "15abf21b-d432-4954-bcf2-c581775fd6fa",
+      "title": "Despite the stock crash, the AI-fueled bubble will soon regain momentum, economist says - Fortune",
+      "content": "The stock market suffered a brutal bloodbath last week as recession concerns shot up, but Capital Economics predicted the artificial intelligence boom will continue to lead the way higher.The surpris… [+2496 chars]",
+      "author": "Jason Ma",
+      "category": "business",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2024/08/GettyImages-2159997204-e1722795684577.jpg?resize=1200,600",
+      "favorites": false,
+      "publishedAt": "2024-08-04T19:13:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "fdf0e7f6-2079-4909-aa5c-98d99f908675",
+      "title": "Bond Traders Bet Big on the Fed Launching Into Rescue Mode - Bloomberg",
+      "content": "Bond traders are piling into bets that the US economy is on the verge of deteriorating so quickly that the Federal Reserve will need to start easing monetary policy aggressively to head off a recessi… [+255 chars]",
+      "author": "Michael Mackenzie, Liz Capo McCormick",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQOUg17tAyZI/v1/1200x800.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T19:00:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "8306a113-e4f5-47fa-a453-ede426cb5b0b",
+      "title": "Woman claims she was removed from Southwest flight at CA airport over medical condition - WLS-TV",
+      "content": "BURBANK, Calif. -- When Brianna Solari boarded a Southwest Airlines plane at the Burbank airport in California on Thursday, she tried to cover up.\r\n\"I had a headband on, covering my forehead, and I h… [+2525 chars]",
+      "author": "Anabel Munoz",
+      "category": "business",
+      "image": "https://cdn.abcotvs.com/dip/images/15138537_swa-passenger-removed-custom-TN-img.gif?w=1600",
+      "favorites": false,
+      "publishedAt": "2024-08-04T16:07:14Z",
+      "breakingNews": false
+    },
+    {
+      "id": "2e6cb483-b7d1-4fe9-9808-3a4879c58192",
+      "title": "Why pharmacy chains like Walgreens and CVS are shuttering locations - CNBC",
+      "content": "In its fiscal third-quarter earnings report to investors in late June, pharmacy chain Walgreens announced plans to close a significant number of its 8,600 U.S. stores.\r\nCEO Tim Wentworth said only 75… [+1949 chars]",
+      "author": "Devan Burris",
+      "category": "business",
+      "image": "https://image.cnbcfm.com/api/v1/image/105740413-1550176909240ap_040430014296.jpg?v=1550176961&w=1920&h=1080",
+      "favorites": false,
+      "publishedAt": "2024-08-04T16:00:02Z",
+      "breakingNews": false
+    }
+  ],
+  "technology": [
+    {
+      "id": "452a352a-8c3b-4a6e-8224-40805835f195",
+      "title": "Sideloading Android apps requires extra step after APK change by Google Play - 9to5Google",
+      "content": "In recent years, Google has been working to make Android apps smaller. As a result of that change, the process of installing (sideloading) Android APKs outside the Play Store might have an additional… [+3108 chars]",
+      "author": "Abner Li",
+      "category": "technology",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/12/Install-unknown-apps-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "favorites": false,
+      "publishedAt": "2024-08-05T00:20:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "4da0f08b-b7f2-4490-bf6c-ded4dc802f1e",
+      "title": "Today’s NYT Mini Crossword Clues And Answers For Monday, August 5th - Forbes",
+      "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the ... [+] puzzle.\r\nCredit: NYT\r\nIn case you missed Sundays NYT Mini Crossword puzzle, you can find the a… [+1902 chars]",
+      "author": "Erik Kain",
+      "category": "technology",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/66ad93159698a3280d18584c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "favorites": false,
+      "publishedAt": "2024-08-05T00:00:38Z",
+      "breakingNews": false
+    },
+    {
+      "id": "b0ed92d1-6210-45b5-a5dd-d19c56c84994",
+      "title": "The U.S. Army's Latest Main Battle Tank: The AbramsX - SlashGear",
+      "content": "When the AbramsX debuted in 2022, it appeared to be a fully realized tank, ready for deployment anywhere in the world. Of course, that's not how things work in weapons development, as a great deal of… [+1129 chars]",
+      "author": "Jonathan H. Kantor",
+      "category": "technology",
+      "image": "https://www.slashgear.com/img/gallery/the-u-s-armys-latest-main-battle-tank-the-abramsx/l-intro-1722526449.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T21:15:03Z",
+      "breakingNews": false
+    },
+    {
+      "id": "717b37b7-d553-4d18-bcde-34a6f7c624af",
+      "title": "Half-Life 3 may have been announced by a \"voice actor who probably has never heard of Steam\" - Eurogamer",
+      "content": "Brace yourself, Half-Life fans rumours of Half-Life 3 have been resurrected once again, this time originating from the unassuming resume of a voice actor.\r\nThere's a chance that by the time you read … [+1893 chars]",
+      "author": "Vikki Blake",
+      "category": "technology",
+      "image": "https://assetsio.gnwcdn.com/half-life-2-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "favorites": false,
+      "publishedAt": "2024-08-04T20:29:45Z",
+      "breakingNews": false
+    },
+    {
+      "id": "58d16d61-1ce0-44d5-b322-98e181fe9a54",
+      "title": "Microsoft Update Warning—70% Of All Windows Users Now At Risk - Forbes",
+      "content": "This is dangerous70% of all Windows users face an impending security nightmare.\r\nNurPhoto via Getty Images\r\nThis has not been a good few weeks for Microsoft. Fresh from the Recall recoil, CrowdStrike… [+2664 chars]",
+      "author": "Zak Doffman",
+      "category": "technology",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/665fd748f52ec6750cddbbf1/0x0.jpg?format=jpg&crop=2885,1836,x82,y49,safe&height=900&width=1600&fit=bounds",
+      "favorites": false,
+      "publishedAt": "2024-08-04T20:00:10Z",
+      "breakingNews": false
+    },
+    {
+      "id": "420ec08d-e197-46c1-8ba5-d3dfcd503ad1",
+      "title": "Daily Deals: Paper Mario: The Thousand-Year Door, SMT V: Vengeance, PSVR2, and More - IGN",
+      "content": "The weekend is finally here, and new deals have popped up. Today, while the PSVR 2 deal remains, the majority of Sony's back to school deals have ended. However, plenty of new deals have popped up fo… [+4645 chars]",
+      "author": "Noah Hunter",
+      "category": "technology",
+      "image": "https://assets-prd.ignimgs.com/2024/08/04/daily-deals-8-4-1722795605576.png?width=1280",
+      "favorites": false,
+      "publishedAt": "2024-08-04T18:22:18Z",
+      "breakingNews": false
+    },
+    {
+      "id": "fdc89199-74b7-431c-96bb-9e621298b6e6",
+      "title": "The first-gen OnePlus Pad is selling for a new low of $379.99 - The Verge",
+      "content": "The first-gen OnePlus Pad is selling for a new low of $379.99\r\nThe first-gen OnePlus Pad is selling for a new low of $379.99\r\n / Even with the arrival of the OnePlus 2, Woots $100 discount makes OneP… [+3181 chars]",
+      "author": "Antonio G. Di Benedetto",
+      "category": "technology",
+      "image": "https://cdn.vox-cdn.com/thumbor/q6NYMVwsOkSC_9UJcuxsqIsnFhs=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24616039/oneplus_pad_6.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T17:55:15Z",
+      "breakingNews": false
+    },
+    {
+      "id": "75214370-fd83-4ecf-b3d0-8e9da4a009cf",
+      "title": "Puget Systems Reveals Intel Core & AMD Ryzen CPU Failure Rates In Report: Claims Higher Failures on Ryzen 7000 Than 14th Gen - Wccftech",
+      "content": "Puget Systems has revealed the failure rates for Intel Core &amp; AMD Ryzen CPUs, and the statistics compiled indeed tell an entirely new story.\r\nIntel's 14th &amp; 13th Gen CPU instability fiasco ha… [+3902 chars]",
+      "author": "Muhammad Zuhair",
+      "category": "technology",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2024/05/AMD-Ryzen-Intel-Core-CPUs.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T15:20:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "ce84c1a3-061b-4e9e-b7b3-d6db2710465c",
+      "title": "Users Of Android 13 Or Newer Warned As Treacherous New Threat Emerges - Forbes",
+      "content": "Android users warned of new threat to data\r\nSOPA Images/LightRocket via Getty Images\r\nThreat intelligence experts have discovered a new Android banking trojan capable of capturing SMS text messages, … [+3173 chars]",
+      "author": "Davey Winder",
+      "category": "technology",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/66af8de242db4d329ef07c77/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "favorites": false,
+      "publishedAt": "2024-08-04T14:58:04Z",
+      "breakingNews": false
+    },
+    {
+      "id": "bbe6d4b6-8fc6-4191-bfa0-440c25a9f817",
+      "title": "Galaxy A15 becomes Samsung’s best-selling smartphone of Q2 2024 - SamMobile - Samsung news",
+      "content": "The Galaxy A15 carried forward the Galaxy A14's legacy, as it became Samsung's best-selling smartphone for the second quarter of this year. Both 4G and 5G variants of the smartphone were in the top-s… [+1270 chars]",
+      "author": "SamMobile, Asif Iqbal Shaik",
+      "category": "technology",
+      "image": "https://www.sammobile.com/wp-content/uploads/2024/03/Samsung-Galaxy-A15-4G-South-Korea-720x405.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T13:19:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "55be9483-2a20-41b7-a347-490153536384",
+      "title": "Call of Duty: Black Ops 6 images leak online, including multiplayer maps and menu screens - Eurogamer",
+      "content": "Images of Call of Duty: Black Ops 6 have leaked online, including multiplayer maps, menu screens, and perks.\r\nWithin hours, the screenshots were hit with copyright claims from Activision, adding cred… [+1602 chars]",
+      "author": "Vikki Blake",
+      "category": "technology",
+      "image": "https://assetsio.gnwcdn.com/BO6_Campaign_Park.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "favorites": false,
+      "publishedAt": "2024-08-04T13:07:57Z",
+      "breakingNews": false
+    },
+    {
+      "id": "c77c6de0-8235-4361-9896-11c1eee256b3",
+      "title": "Gurman: iPhone 16 still launching in September despite Apple Intelligence delay - 9to5Mac",
+      "content": "We use cookies and data to\r\n<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to un… [+1139 chars]",
+      "author": "Unknown author",
+      "category": "technology",
+      "image": null,
+      "favorites": false,
+      "publishedAt": "2024-08-04T12:38:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "7e51f9e0-a42f-43dc-aedf-424c91bf5331",
+      "title": "Strange Link Between Board Games And Autism May Finally Be Explained - ScienceAlert",
+      "content": "Anecdotal evidence suggests those with autism tend to enjoy board games more than most, and now two new studies identify some reasons why this might be the case.\r\nThe team behind the research, from t… [+2925 chars]",
+      "author": "David Nield",
+      "category": "technology",
+      "image": "https://www.sciencealert.com/images/2024/07/BoardGame.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T12:31:21Z",
+      "breakingNews": false
+    },
+    {
+      "id": "ec524e28-a8e5-4ee2-9703-10a1c060051c",
+      "title": "T9 Dialing Lands on Your iPhone With the iOS 18 Betas - CNET",
+      "content": "Apple released the second public beta for iOS 18 on July 29, more than a month after the tech giant announced the software at its Worldwide Developers Conference in June.\r\nThe update brings many new … [+3314 chars]",
+      "author": "Unknown author",
+      "category": "technology",
+      "image": "https://www.cnet.com/a/img/resize/673521d087d9e9a4f4129bf846b784fbed71dd8a/hub/2024/04/05/22de5863-d323-4eb6-91a4-e68706fc6775/ios-18-iphone15-3-00000.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "favorites": false,
+      "publishedAt": "2024-08-04T10:00:00Z",
+      "breakingNews": false
+    }
+  ],
+  "health": [
+    {
+      "id": "2a8c1326-bc56-4a30-a393-14ba1b9ee893",
+      "title": "Olympics: Beetroot Really Can Boost Athletic Performance, And This Is Why - ScienceAlert",
+      "content": "Beetroot is gaining popularity as a performance-enhancer for athletes and those wanting to gain a competitive advantage in running and cycling.\r\nSome people juice beetroot, some eat it, others mix up… [+4896 chars]",
+      "author": "The Conversation",
+      "category": "health",
+      "image": "https://www.sciencealert.com/images/2023/02/BeetrootJuiceFoamInGlass.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-05T01:06:05Z",
+      "breakingNews": false
+    },
+    {
+      "id": "b34b6c3e-b839-4959-9415-64e0d8a7d261",
+      "title": "Blood test has a 90% accuracy rate in determining whether memory loss is due to Alzheimer’s: study - WOODTV.com",
+      "content": "We use cookies and data to\r\n<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to un… [+1139 chars]",
+      "author": "Unknown author",
+      "category": "health",
+      "image": null,
+      "favorites": false,
+      "publishedAt": "2024-08-04T17:00:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "700055dc-e979-47c1-a390-d7bde802e69b",
+      "title": "New Strategies To Combat Dementia: 14 Risk Factors You Can Control - SciTechDaily",
+      "content": "ByThe LancetAugust 4, 2024\r\nA new report indicates that tackling 14 lifestyle and environmental risk factors from an early age could prevent almost 50% of dementia cases globally. Highlighting new ri… [+13055 chars]",
+      "author": "Unknown author",
+      "category": "health",
+      "image": "https://scitechdaily.com/images/Exploding-Brain-Dementia-Concept.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T15:08:35Z",
+      "breakingNews": false
+    },
+    {
+      "id": "8ca54ed1-03bf-4284-a2ea-d8732871af38",
+      "title": "Chronic pain patients’ mental health needs often go unrecognized - The Washington Post",
+      "content": "People living with chronic pain are more likely than their peers without pain to need mental health treatment, yet less likely to get it, a new analysis suggests.\r\nThe study, published in the journal… [+1964 chars]",
+      "author": "Erin Blakemore",
+      "category": "health",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUPT7FJPIP5C6N6ZMBRUTE42TM.JPG&w=1440",
+      "favorites": false,
+      "publishedAt": "2024-08-04T12:38:50Z",
+      "breakingNews": false
+    },
+    {
+      "id": "841713fe-58a8-429a-a259-92c496f08e69",
+      "title": "What Happens to Your Body When You Eat Pistachios Regularly - EatingWell",
+      "content": "Its not hard to understand why you might eat pistachios every day. Recognized for their distinctive shells and rich taste, these little nuts are beloved around the world. Ranging from soft green to p… [+7679 chars]",
+      "author": "https://www.facebook.com/EatingWell/",
+      "category": "health",
+      "image": "https://www.eatingwell.com/thmb/7XGgaUO3c7rz6Xu0uBkpymsS_kk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/What-Happens-To-Your-Body-When-You-Eat-Pistachios-cd8192791d7e4a3d89a675dec4e59aa7.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T11:00:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "5751ce66-e7b4-46ba-bb6d-7188734d58df",
+      "title": "New Orleans oysters for your mental health? Doctors explain how food can impact our mood. - NOLA.com",
+      "content": "In good news for Louisianans, oysters topped the list of animal foods with a score of 56%. But plant foods packed a bigger punch.\r\nFoods like watercress, spinach, greens and lettuces, Swiss chard and… [+921 chars]",
+      "author": "Emily Woodruff",
+      "category": "health",
+      "image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/c7/cc7b4e02-1223-11ef-aef2-9b4496bb64eb/6643b48cb2f3e.image.jpg?crop=1703%2C894%2C0%2C160&resize=1200%2C630&order=crop%2Cresize",
+      "favorites": false,
+      "publishedAt": "2024-08-04T10:30:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "7d8141d8-6972-443a-ba32-3bda2ac06f2b",
+      "title": "'Love hormone' oxytocin may be missing link between sleep apnea and high blood pressure - Livescience.com",
+      "content": "Sleep apnea often comes with high blood pressure\r\n, which, in turn, contributes to the heart-health risks tied to both conditions. Now, scientists have pinpointed two brain chemicals that play a role… [+4941 chars]",
+      "author": "Christoph Schwaiger",
+      "category": "health",
+      "image": "https://cdn.mos.cms.futurecdn.net/C4CD97DtG9pvv7fnbgNpS8-1200-80.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T10:00:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "fbd1419d-6abf-4bed-aa1b-c1a5783fea70",
+      "title": "Overnight oats for weight loss: 5 delicious ways to eat it and shed kilos - The Times of India",
+      "content": "Your Privacy\r\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used t… [+2093 chars]",
+      "author": "TOI Lifestyle Desk",
+      "category": "health",
+      "image": "https://static.toiimg.com/thumb/msid-112245145,width-1070,height-580,imgsize-32778,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T05:23:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "7094c7e7-0c67-4521-831c-7e91084193d4",
+      "title": "The Starting Point of Schizophrenia May Have Been Found in Brain Scans - ScienceAlert",
+      "content": "Scientists think they may have found locations in the brain where schizophrenia first emerges, potentially making the neurological disorder's onset easier to diagnose from a standard MRI brain scan.\r… [+2795 chars]",
+      "author": "David Nield",
+      "category": "health",
+      "image": "https://www.sciencealert.com/images/2024/07/BrainScan-1.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-03T23:32:26Z",
+      "breakingNews": false
+    },
+    {
+      "id": "a607f837-62a0-4eed-8a38-c64587d18f8d",
+      "title": "Ozempic, Wegovy and other weight loss drugs raise new concern for doctors, report says - SILive.com",
+      "content": "Recent weight loss drugs have enabled many Americans to shed inches from their waistlines, but the benefits are not without potential side effects, prompting a new warning from doctors, according to … [+1421 chars]",
+      "author": "Toniann DiCostanzo | For the Staten Island Advance",
+      "category": "health",
+      "image": "https://www.silive.com/resizer/v2/5ZFFP44KVNGLFPBAZPICT4BFCI.jpg?auth=a5d0d87314b08b446844ce31a8047fbb223b897932ac8cda5a46066c4a6d03e7&width=1280&quality=90",
+      "favorites": false,
+      "publishedAt": "2024-08-03T19:28:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "04dfd866-ff05-4de2-ac17-c2798c9afaba",
+      "title": "California Dept. Of Public Health Investigating Disease Outbreak Among Music Festival Attendees - Deadline",
+      "content": "More than 20,000 attendees at the California Lightning in a Bottle music festival may have been exposed to a dangerous fungal illness. \r\nThe California Department of Public Health (CDPH) is investiga… [+1486 chars]",
+      "author": "Bruce Haring",
+      "category": "health",
+      "image": "https://deadline.com/wp-content/uploads/2024/08/GettyImages-474914180.jpg?w=1024",
+      "favorites": false,
+      "publishedAt": "2024-08-03T19:27:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "4f0f69a1-499b-49e7-9584-2449f061905a",
+      "title": "Half of Dad’s Face Rebuilt After Dog Sniffs Out Cancer to Save His Life: ‘Do Not Ignore the Symptoms’ - Good News Network",
+      "content": "Mark Allen after facial reconstruction SWNS\r\nSurgeons successfully rebuilt half his face, after a father-of-two was saved by the family dog sniffing out a cancerous tumor.\r\nMark Allen was given just … [+3621 chars]",
+      "author": "Good News Network",
+      "category": "health",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/08/Mark-Allen-facial-reconstruction-after-cancer-Get-A-Head-Charitable-Trust-SWNS.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-03T18:34:04Z",
+      "breakingNews": false
+    },
+    {
+      "id": "6a65f7d5-704c-4e7f-bbf6-9b7e7ea5f360",
+      "title": "Compound Found in Popular Foods Linked to High Blood Pressure - SciTechDaily",
+      "content": "A study from Nagoya University shows that consuming foods with high tellurium levels, a byproduct of industrial activities, correlates with higher blood pressure. Monitoring and managing dietary tell… [+4423 chars]",
+      "author": "Unknown author",
+      "category": "health",
+      "image": "https://scitechdaily.com/images/High-Blood-Pressure-and-Tellurium.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-03T16:40:39Z",
+      "breakingNews": false
+    },
+    {
+      "id": "ce4c422e-86f5-4096-9a95-f2118d1252d0",
+      "title": "Prenatal cannabis exposure linked to changes in brain structure and connectivity - PsyPost",
+      "content": "New research published in Nature Mental Health sheds light on the relationship between prenatal cannabis exposure and mental health issues in early adolescence. The study found that prenatal cannabis… [+7111 chars]",
+      "author": "Eric W. Dolan",
+      "category": "health",
+      "image": "https://www.psypost.org/wp-content/uploads/2024/08/pregnant-woman.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-03T16:06:57Z",
+      "breakingNews": false
+    },
+    {
+      "id": "feefd706-0231-4c8f-8fc0-949c58f40677",
+      "title": "Researchers Have Uncovered Fundamental Differences in Biological Processes Between Males and Females - SciTechDaily",
+      "content": "ByUniversity of New South WalesAugust 3, 2024\r\nResearchers at UNSW Sydney have discovered novel mechanisms of sex chromosome dosage compensation in platypus and chicken, challenging previous assumpti… [+8355 chars]",
+      "author": "Unknown author",
+      "category": "health",
+      "image": "https://scitechdaily.com/images/Chromosome-Genetics-Illustration.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-03T15:31:08Z",
+      "breakingNews": false
+    },
+    {
+      "id": "d95d548a-dfa5-43ec-9c7c-6b66f42c2ca5",
+      "title": "Saturday Citations: Warp drive disasters; cancer prospects across generations; a large COVID vaccination study - Phys.org",
+      "content": "This week, researchers reported on the implications of a warp drive containment breach in case you're interested in theoretical space-borne disasters. Scientists in the U.K. report the cardiovascular… [+5007 chars]",
+      "author": "Chris Packham",
+      "category": "health",
+      "image": "https://scx2.b-cdn.net/gfx/news/2024/saturday-citations-war.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-03T13:00:01Z",
+      "breakingNews": false
+    }
+  ],
+  "entertainment": [
+    {
+      "id": "bf573d94-88df-4d83-8fb3-3ab99090dc04",
+      "title": "'RHONJ' Season 14 Explosive Finale: Jackie Goldschneider's Bombshell Confession Revealed - Entertainment Tonight",
+      "content": "We use cookies and data to\r\n<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to un… [+1139 chars]",
+      "author": "Unknown author",
+      "category": "entertainment",
+      "image": null,
+      "favorites": false,
+      "publishedAt": "2024-08-05T01:15:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "29f1ae5e-c1f0-4bb3-9e4f-7dc92b533e51",
+      "title": "Images of suspects released in fatal shooting of \"General Hospital\" actor Johnny Wactor - CBS Los Angeles",
+      "content": "Your Privacy\r\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information wit… [+1677 chars]",
+      "author": "Iris Salem",
+      "category": "entertainment",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/05/26/46a76ed0-ae76-40d8-92e4-ea88c9cd8f9a/thumbnail/1200x630g2/40ad35dad1d9a4125b97eff215bf9163/gettyimages-1235392347.jpg?v=d7dedd293aad546f97f947149642d369",
+      "favorites": false,
+      "publishedAt": "2024-08-05T00:14:35Z",
+      "breakingNews": false
+    },
+    {
+      "id": "a75d82e8-0500-4f02-b53e-7d04a0faea37",
+      "title": "Meghan Markle Hasn’t ‘Scraped the Surface’ of Past Suicidal Ideation - The Cut",
+      "content": "After first opening up about her mental health struggles in 2021, Meghan Markle is revisiting that dark time in her past in hopes of reaching others struggling with suicidal ideation. In a new interv… [+2278 chars]",
+      "author": "Emily Leibert",
+      "category": "entertainment",
+      "image": "https://pyxis.nymag.com/v1/imgs/f74/080/64041ac6dccdcdf625ef34357854f3134e-GettyImages-2061693905.1x.rsocial.w1200.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T20:04:11Z",
+      "breakingNews": false
+    },
+    {
+      "id": "2a26c9f8-23dd-461c-8b92-ef6e235181a2",
+      "title": "Capricorn Daily Horoscope Today, August 5, 2024 predicts romantic gestures - Hindustan Times",
+      "content": "Capricorn (22nd December to 19th January)\r\nDaily Horoscope Prediction says, Embrace New Beginnings and Growth\r\nCapricorn Daily Horoscope Today, August 5, 2024. Embrace change and remain open-minded.\r… [+3013 chars]",
+      "author": "Dr J.N Pandey",
+      "category": "entertainment",
+      "image": "https://images.hindustantimes.com/img/2024/08/04/1600x900/Capri_freepik_1716404225777_1722800108598.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T19:36:40Z",
+      "breakingNews": false
+    },
+    {
+      "id": "2fee9420-24cc-49c5-8d07-3568fb4d255d",
+      "title": "Roman Reigns returns, Judgment Day implodes at WWE SummerSlam that fell short of being special - New York Post ",
+      "content": "SummerSlam delivered a near-complete reset of the WWE landscape, but something felt missing all night even with the long-awaited return of Roman Reigns.\r\nFans got the correct result they likely expec… [+9284 chars]",
+      "author": "Joseph Staszewski",
+      "category": "entertainment",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2024/08/newspress-collage-n4e544kgn-1722748226453.jpg?quality=75&strip=all&1722733916&w=1024",
+      "favorites": false,
+      "publishedAt": "2024-08-04T15:02:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "dcbd8fce-13a2-4a87-8461-93ef12b8cb01",
+      "title": "Cardi B Divorce Filing 'Wasn't an Easy Decision' (Exclusive Source) - PEOPLE",
+      "content": "Cardi B's decision to file for divorce from Offset was a difficult one for her to navigate, but \"a long time coming.\"\r\nA source exclusively tells PEOPLE that \"filing for divorce again wasn't an easy … [+2309 chars]",
+      "author": "https://www.facebook.com/peoplemag",
+      "category": "entertainment",
+      "image": "https://people.com/thmb/023Zyxt_T3jpvw-tCIprUJc04w0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(760x262:762x264)/cardi-b-offset-121123-4-b0635d7a6daf47d0ae2d39086c13b793.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-02T22:00:47Z",
+      "breakingNews": false
+    }
+  ],
+  "general": [
+    {
+      "id": "711e6c18-5896-4668-a744-b3ea64fe889a",
+      "title": "Japan's Nikkei 225 index plunges 7% as world markets tremble over risks to the US economy - The Associated Press",
+      "content": "BANGKOK (AP) Japans benchmark Nikkei 225 stock index plunged as much as 8.1% early Monday, extending sell-offs that shook world markets last week as worries flared over the state of the U.S. economy.… [+4487 chars]",
+      "author": "ELAINE KURTENBACH",
+      "category": "general",
+      "image": "https://dims.apnews.com/dims4/default/b71e2a4/2147483647/strip/true/crop/4502x2532+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6c%2Fdc%2F38fc8aa092d7adfbc2d8e681e021%2F148a8bc547f9429fb7cb9d9b90bcc34c",
+      "favorites": false,
+      "publishedAt": "2024-08-05T04:18:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "1af1465a-fcae-45b3-9ec4-9ccd71470303",
+      "title": "'RHONJ' Season 14 Explosive Finale: Jackie Goldschneider's Bombshell Confession Revealed - Entertainment Tonight",
+      "content": "We use cookies and data to\r\n<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to un… [+1139 chars]",
+      "author": "Unknown author",
+      "category": "general",
+      "image": null,
+      "favorites": false,
+      "publishedAt": "2024-08-05T01:15:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "aea5573d-eb91-416d-b455-ae5b84a87b07",
+      "title": "Scoop: Blinken told G7 Iran and Hezbollah could attack Israel in next 24 hours - Axios",
+      "content": "figcaption&gt;span]:font-sans\" data-chromatic=\"ignore\"&gt;Secretary of State Tony Blinken told his counterparts from the G7 countries on Sunday that an attack by Iran and Hezbollah against Israel cou… [+4433 chars]",
+      "author": "Barak Ravid",
+      "category": "general",
+      "image": "https://images.axios.com/lmI-vL9_v9gmHEVDbjmLoB7kRGM=/0x0:0x0/1366x768/2024/08/04/1722815385410.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-05T00:09:28Z",
+      "breakingNews": false
+    },
+    {
+      "id": "18faed56-646e-4a05-aef6-3f6cb20987b1",
+      "title": "Today’s NYT Mini Crossword Clues And Answers For Monday, August 5th - Forbes",
+      "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the ... [+] puzzle.\r\nCredit: NYT\r\nIn case you missed Sundays NYT Mini Crossword puzzle, you can find the a… [+1902 chars]",
+      "author": "Erik Kain",
+      "category": "general",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/66ad93159698a3280d18584c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "favorites": false,
+      "publishedAt": "2024-08-05T00:00:38Z",
+      "breakingNews": false
+    },
+    {
+      "id": "f641997d-2bd1-4ddf-a7d7-c2dd5bd2610f",
+      "title": "Zelensky confirms first F-16 fighter jets made it to Ukraine - The Hill",
+      "content": "Ukraine President Volodymyr Zelensky confirmed the first F-16 fighter jets have made it to his country after a lengthy delay.\r\nZelensky confirmed that the fighter jets were in Ukraine in comments pos… [+1910 chars]",
+      "author": "Lauren Sforza",
+      "category": "general",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2024/07/zelenskyvolodymyr_071024jg02_w.jpg?w=1280",
+      "favorites": false,
+      "publishedAt": "2024-08-04T23:18:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "37ea53ad-47c5-4ded-8382-949867280d47",
+      "title": "The Perseid meteor shower is about to peak. Here's when to see the most 'shooting stars'. - Livescience.com",
+      "content": "One of the most prolific annual meteor showers of the year, the Perseids, will peak next weekend, bringing up to 75 \"shooting stars\" per hour to the sky Sunday night and early Monday (Aug. 11 to Aug.… [+2594 chars]",
+      "author": "Jamie Carter",
+      "category": "general",
+      "image": "https://cdn.mos.cms.futurecdn.net/rGgUKjdvbuSV35dAiw2Zyn-1200-80.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T22:00:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "ee908516-ecea-4f0c-b6de-4d56b8abd519",
+      "title": "Cygnus spacecraft suffers glitches after launch - SpaceNews",
+      "content": "LOGAN, Utah A Falcon 9 launched a Northrop Grumman Cygnus cargo spacecraft to the International Space Station Aug. 4, but the spacecraft suffered problems that have delayed maneuvers needed to reach … [+4439 chars]",
+      "author": "Jeff Foust",
+      "category": "general",
+      "image": "https://spacenews.com/wp-content/uploads/2024/08/ng21-deploy.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T21:23:12Z",
+      "breakingNews": false
+    },
+    {
+      "id": "e6d5acb8-a3c9-410c-a07f-99c9ef5eb71a",
+      "title": "CLOSINGS & CANCELLATIONS: Schedule changes announced ahead of Tropical Storm Debby - Live 5 News WCSC",
+      "content": "CHARLESTON, S.C. (WCSC) - Schedule changes are beginning to come in ahead of potential flooding from Tropical Storm Debby.\r\nClick here to download the free Live 5 First Alert Weather app.\r\nThe system… [+2704 chars]",
+      "author": "Patrick Phillips, Gabriel Scotto",
+      "category": "general",
+      "image": "https://gray-wcsc-prod.cdn.arcpublishing.com/resizer/v2/I4MRMSRAIRBQZO6LMNBT5VNXLI.jpg?auth=f1c85330cc46a2af79ff557cc0122f859a4ffdf26361ea51ceeaaa013e5e5824&width=1200&height=600&smart=true",
+      "favorites": false,
+      "publishedAt": "2024-08-04T19:21:00Z",
+      "breakingNews": false
+    },
+    {
+      "id": "0e2b3511-8125-47a1-9f03-71e5c8061322",
+      "title": "New Strategies To Combat Dementia: 14 Risk Factors You Can Control - SciTechDaily",
+      "content": "ByThe LancetAugust 4, 2024\r\nA new report indicates that tackling 14 lifestyle and environmental risk factors from an early age could prevent almost 50% of dementia cases globally. Highlighting new ri… [+13055 chars]",
+      "author": "Unknown author",
+      "category": "general",
+      "image": "https://scitechdaily.com/images/Exploding-Brain-Dementia-Concept.jpg",
+      "favorites": false,
+      "publishedAt": "2024-08-04T15:08:35Z",
+      "breakingNews": false
+    }
+  ]
+}

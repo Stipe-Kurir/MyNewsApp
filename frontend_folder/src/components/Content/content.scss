@@ -1,0 +1,110 @@
+.ContentContainer {
+  width: 100%;
+  min-height: 100vh;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.ContentItems {
+  width: 1095px;
+  display: flex;
+  gap: 20px;
+
+  @media (min-width: 950px) and (max-width: 1110px) {
+    width: 100%;
+    margin-left: 20px;
+  }
+
+  @media (max-width: 768px) {
+    margin-left: 0;
+    justify-content: center;
+  }
+}
+
+.ContentMain {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  @media (max-width: 768px) {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) and (max-width: 950px) {
+    margin-left: 30px;
+  }
+}
+
+.ContentMainTitle {
+  width: 100%;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.ContentArticles,
+.single-article {
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: repeat(3, 321px);
+  gap: 19px;
+
+  @media (min-width: 768px) and (max-width: 1110px) {
+    grid-template-columns: repeat(2, 321px);
+    gap: 10px;
+  }
+
+  @media (max-width: 768px) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+}
+
+.NewsCategory {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+
+  @media (min-width: 768px) {
+    display: none;
+  }
+}
+
+.NewsCategoryButton {
+  width: 81px;
+  height: 40px;
+  cursor: pointer;
+  background-color: transparent;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px; // To apply rounded corners when active
+
+  &.active {
+    color: #bb1e1e;
+    background-color: rgba(187, 30, 30, 0.1);
+  }
+}
+
+.NoArticlesMessage {
+  width: 321px;
+  font-size: 25px;
+  color: #8d8d8c;
+
+  @media (max-width: 768px) {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .NewsTitle {
+    display: none;
+  }
+}

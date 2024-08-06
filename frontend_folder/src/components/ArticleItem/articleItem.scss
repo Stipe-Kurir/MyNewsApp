@@ -1,0 +1,85 @@
+.ArticleItemContainer {
+  width: 670px;
+  display: flex;
+  @media (min-width: 951px) and (max-width: 1110px) {
+    width: 60%;
+  }
+  @media (max-width: 950px) {
+    width: 100%;
+    margin-right: 30px;
+  }
+}
+
+.ArticleItemContainerItems {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.articleHeader {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.articleTitle {
+  font-size: 18px;
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.articleCategory {
+  font-size: 12px;
+  color: #1e71bb;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.articleImage {
+  width: 100%;
+  overflow: hidden;
+  height: 280px;
+
+  @media (min-width: 768px) and (max-width: 950px) {
+    height: 350px;
+  }
+
+  @media (max-width: 560px) {
+    height: 150px;
+  }
+}
+
+.articleImage img {
+  width: 100%;
+  height: auto;
+  display: block;
+  min-width: 220px;
+  min-height: 150px;
+}
+
+.articleDescription {
+  width: 100%;
+  line-height: 1.5;
+}
+
+.articleImage .placeholder {
+  width: 100%;
+  height: 280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e0e0e0;
+  color: #999;
+  font-size: 16px;
+  text-align: center;
+
+  @media (min-width: 768px) and (max-width: 950px) {
+    height: 350px;
+  }
+
+  @media (max-width: 560px) {
+    height: 150px;
+  }
+}
